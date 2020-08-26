@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Target2 Saldos by ECB",
-            "content": "Average of Target2 per month . Compare Saldos of all banks . Check single banks .",
+            "content": "df_end_period.assign(Germany_increase=df_end_period[&#39;Germany&#39;] * 9 / 5 + 32) . Year / Months 2001-01 NaN 2001-02 NaN 2001-03 NaN 2001-04 NaN 2001-05 NaN ... 2020-02 821562.58 2020-03 935126.03 2020-04 918813.83 2020-05 916144.66 2020-06 995082.75 Name: Germany, Length: 234, dtype: float64 . Average of Target2 per month . Compare Saldos of all banks . Check single banks . Just click on the bank within the legend. .",
             "url": "https://claudia-chehade.github.io/economy_matters/ecb/capital%20flow/target2/2020/08/24/target2.html",
             "relUrl": "/ecb/capital%20flow/target2/2020/08/24/target2.html",
             "date": " • Aug 24, 2020"
