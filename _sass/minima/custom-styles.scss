@@ -8,4 +8,23 @@
 /*----- ADD YOUR STYLES BELOW -------*/
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
-@import "minima/fastpages-dracula-highlight"; 
+// @import "minima/fastpages-dracula-highlight"; 
+
+// add additional spacing between list items
+li {
+    margin-bottom: 0.25rem;
+  }
+  
+  // force RSS icon to display properly
+  .svg-icon {
+    width: 23px;
+    height: 23px;
+  }
+  
+  // Handling large charts on mobile devices
+  @media only screen and (max-width: 900px) {
+    /* for mobile phone and tablet devices */
+    .output_wrapper{
+      overflow: scroll;
+    }
+  }
