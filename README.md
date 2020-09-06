@@ -11,6 +11,8 @@ https://claudia-chehade.github.io/economy_matters/
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
+Howto see my pages? https://claudia-chehade.github.io/economy_matters/
+
 
 ## What To Do Next?
 
