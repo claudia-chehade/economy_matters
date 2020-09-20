@@ -57,7 +57,8 @@ def reduce_data(df_data, suffix, columns_to_be_dropped=None, countries_to_be_dro
     
     return df_data_reduced
 
-def plot_time_series_with_vertical_selector(df_data, x_value, y_value, var_name):
+def plot_time_series_with_vertical_selector(df_data, x_value, y_value, var_name, width=600, height=500):
+
     source = df_data
     source = source.reset_index().melt(x_value, var_name=var_name, value_name=y_value)
 
@@ -104,10 +105,10 @@ def plot_time_series_with_vertical_selector(df_data, x_value, y_value, var_name)
     return alt.layer(
         line, selectors, points, rules, text
     ).properties(
-        width=600, height=500
+        width=width, height=height
     )
 
-def plot_altair_legend_selectable(source, x_value, y_value, var_name):
+def plot_altair_legend_selectable(source, x_value, y_value, var_name, width=600, height=500):
     source = source.reset_index().melt(x_value, var_name=var_name, value_name=y_value)
 
     selection = alt.selection_multi(fields=[var_name], bind='legend')
@@ -123,7 +124,7 @@ def plot_altair_legend_selectable(source, x_value, y_value, var_name):
     ).add_selection(
         selection
     ).interactive().properties(
-        width=600, height=500
+        width=width, height=height
     )
 
   
