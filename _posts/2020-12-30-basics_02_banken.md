@@ -1,11 +1,11 @@
 ---
 toc: true
+title: Geldschöpfung und Krisen
 layout: post
-description: Was ist Geld? Wie bestimmt man seinen Wert? 
+description: Geldschöpfung und Krisen 
 show_tags: true
 comments: true
 categories: [basics]
-title: Ist Geld an sich krisenanfällig?
 image: images/economy_logo_small.png
 ---
 

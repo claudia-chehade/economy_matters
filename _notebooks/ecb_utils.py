@@ -107,4 +107,23 @@ def plot_time_series_with_vertical_selector(df_data, x_value, y_value, var_name)
         width=600, height=500
     )
 
+def plot_altair_legend_selectable(source, x_value, y_value, var_name):
+    source = source.reset_index().melt(x_value, var_name=var_name, value_name=y_value)
+
+    selection = alt.selection_multi(fields=[var_name], bind='legend')
+
+    return alt.Chart(source).mark_line(interpolate='basis').encode(
+        x=f'{x_value}:T',
+        y=f'{y_value}:Q',
+        color=f'{var_name}:N',
+        opacity=alt.condition(selection, alt.value(1), alt.value(0.2)),
+        tooltip = [alt.Tooltip(y_value),
+                   alt.Tooltip(var_name),
+                  ]
+    ).add_selection(
+        selection
+    ).interactive().properties(
+        width=600, height=500
+    )
+
   
