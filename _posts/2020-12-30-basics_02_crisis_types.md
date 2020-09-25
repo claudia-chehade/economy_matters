@@ -2,7 +2,7 @@
 toc: true
 title: Krisentypen
 layout: post
-description: Krisenmodelle, Inlfation & Deflation 
+description: Krisenmodelle, Inflation & Deflation 
 show_tags: true
 comments: true
 categories: [basics]

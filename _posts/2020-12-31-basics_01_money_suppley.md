@@ -28,19 +28,22 @@ image: images/money.png
 ---
 
 ### Wie bestimmt man den Geldwert?
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=CVEPzR617Z0
-" target="_blank"><img src="http://img.youtube.com/vi/CVEPzR617Z0/0.jpg" 
-alt="Was ist Geld?" width="240" height="180" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rWYgxCDmbNk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Preiskaleidoskop](https://service.destatis.de/Voronoi/PreisKaleidoskop.svg) 
+- [Preiskaleidoskop](https://service.destatis.de/Voronoi/PreisKaleidoskop.svg) 
+- [Arbeitsstunden pro Dax-Anteil](https://twitter.com/HanauerMatthias/status/1229311733610795011)
+- [Vermögenspreise im Vergleich zu Konsumgüterpreisen](https://www.flossbachvonstorch-researchinstitute.com/de/fvs-vermoegenspreisindex-fuer-die-eurozone/)
+
 
 ---
 
-### Geldtheorien
+### Welche Theorien zum Geldwert gibt es?
 Makroökonomische Theorien betonen - je nach zeitlichem Hintergrund - entweder die Funktionsfähigkeit der Märkte und damit die Rolle der Unternehmer oder die Rolle des Stadtes als Kriseninterventionist.
 Die Theorien wechseln meist infolge großer Krisen, wie der Großen Depression 1929, der Ölkrise 1971, der Rezessionen Anfang der 80er Jahre, der Finanzkrise 2008 und der jetzigen Corona-Krise.
 
-TODO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xj_yqCo7BGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 * [Paul Krugman zur Allgemeinen Theorie der Beschäftigung, des
 Zinses und des Geldes von John Maynard Keynes](http://www.keynes-gesellschaft.de/pdf/EinleitungKrugmanStand%2004.11.06_.pdf)
