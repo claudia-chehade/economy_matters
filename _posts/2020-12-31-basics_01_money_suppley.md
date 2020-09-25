@@ -17,7 +17,6 @@ image: images/money.png
 ## 1. Ist Geld an sich krisenanfällig?
 
 ### Was ist Geld?
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVEPzR617Z0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
@@ -46,7 +45,7 @@ Die Theorien wechseln meist infolge großer Krisen, wie der Großen Depression 1
 * [Paul Krugman zur Allgemeinen Theorie der Beschäftigung, des
 Zinses und des Geldes von John Maynard Keynes](http://www.keynes-gesellschaft.de/pdf/EinleitungKrugmanStand%2004.11.06_.pdf)
 * [Neutralität des Geldes](https://de.wikipedia.org/wiki/Neutralit%C3%A4t_des_Geldes)
-* [Keynes, John Maynard: Allgemeine Theorie der Beschäftigung, des Zinses und des Geldes, 1936](https://de.wikipedia.org/wiki/
+* [Keynes, John Maynard: Allgemeine Theorie der Beschäftigung, des Zinses und des Geldes, 1936](https://de.wikipedia.org/wiki/)
 
 #### Monetarismus & Neoklassische Gelodtheorie
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jiQMucIFcWw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -56,22 +55,20 @@ Zinses und des Geldes von John Maynard Keynes](http://www.keynes-gesellschaft.de
 
 
 * [Quantitätstheorie des Geldes](https://de.wikipedia.org/wiki/Quantit%C3%A4tstheorie)
-Allgemeine_Theorie_der_Besch%C3%A4ftigung,_des_Zinses_und_des_Geldes)
+* Allgemeine_Theorie_der_Besch%C3%A4ftigung,_des_Zinses_und_des_Geldes
 * [History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)
 * [Modern Money Theory](https://www.handelsblatt.com/politik/international/modern-monetary-theory-eine-neue-geldtheorie-spaltet-die-wirtschaft/24108180.html?ticket=ST-4808224-wYDz5yYLqT6RcsQ1mLiy-ap3)
 * [What went wrong with economics](https://elearning.unito.it/sme/pluginfile.php/192712/course/section/41483/Economist_OnEconomics_jul09.pdf)
 
 ---
 
-### Geldfunktionen und Fallen
+### Wie entstehen Krisen im Geldumlauf?
+Krisen entstehen aus der Natur des Geldes,
+*	wenn es in Erwartung schwerer Zeiten (Sparparadox) oder durch Ungleichverteilung gehortet wird und damit die Nachfrage nach Gütern sinkt
+*	 wenn die Geldmenge stärker als die Warenmenge steigt und damit Geld keinen Wert mehr speichern kann
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5-QT4_i4b8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
 
-### Fazit
-Krisen entstehen aus der Natur des Geldes,
-•	wenn es in Erwartung schwerer Zeiten (Sparparadox) oder durch Ungleichverteilung gehortet wird und damit die Nachfrage nach Gütern sinkt
-•	 wenn die Geldmenge stärker als die Warenmenge steigt und damit Geld keinen Wert mehr speichern kann
 
 ---
 
