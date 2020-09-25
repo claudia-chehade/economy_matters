@@ -5,8 +5,10 @@ import datetime
 
 import altair as alt
 from vega_datasets import data
+import matplotlib.pyplot as plt
 
-def convert_month(date : str):
+
+def convert_month(date: str):
     # 2020Jun
     year = date[0:4]
     month = date[4:]
@@ -14,54 +16,57 @@ def convert_month(date : str):
     month_number = datetime_object.month
     return f'{year}-{month_number}' if month_number > 9 else f'{year}-0{month_number}'
 
+
 def make_time_series(df_data):
     df_data.set_index(list(df_data.columns[[0]]), inplace=True)
     # change indices to sortable values
-    df_data = df_data.rename(index = lambda x: convert_month(x))
+    df_data = df_data.rename(index=lambda x: convert_month(x))
     df_data.sort_index(axis=0, ascending=True, inplace=True)
     df_data.index.name = 'Year / Months'
     return df_data
+
 
 def reduce_data(df_data, suffix, columns_to_be_dropped=None, countries_to_be_dropped=None):
     df_data_reduced = df_data.copy()
     # split into two dataframes with average and end of period
     if columns_to_be_dropped:
-        df_data_reduced.drop(columns_to_be_dropped, axis=1, inplace=True)   
-        
-    # drop lines with units and category    
+        df_data_reduced.drop(columns_to_be_dropped, axis=1, inplace=True)
+
+    # drop lines with units and category
     df_data_reduced.drop(index=1, axis=0, inplace=True)
     df_data_reduced.drop(index=2, axis=0, inplace=True)
-    
+
     # set countries as column header
     df_data_reduced.columns = df_data_reduced.iloc[0]
-    
-    # drop countries (now duplicated line) 
+
+    # drop countries (now duplicated line)
     df_data_reduced.drop(df_data_reduced.index[0], inplace=True)
-    
+
     # make the month column to index, convert the format and sort it ascending
     df_data_reduced = make_time_series(df_data_reduced)
-    
+
     # remove all other stuff from country columns header
-    df_data_reduced.rename(columns=lambda x: x[:-len(suffix)] if (type(x) is not float and x.endswith(suffix)) else x, inplace=True)
-    
+    df_data_reduced.rename(columns=lambda x: x[:-len(suffix)] if (
+        type(x) is not float and x.endswith(suffix)) else x, inplace=True)
+
     # drop countries with low target2 saldos
     if countries_to_be_dropped:
         df_data_reduced.drop(countries_to_be_dropped, axis=1, inplace=True)
-    
+
     # replace missing values by 0
     df_data_reduced.replace(to_replace='-', value='0', inplace=True)
     df_data_reduced.fillna(0, inplace=True)
-    
+
     # convert objects to floats
-    df_data_reduced = df_data_reduced.astype(float)    
-    
+    df_data_reduced = df_data_reduced.astype(float)
+
     return df_data_reduced
+
 
 def plot_time_series_with_vertical_selector(df_data, x_value, y_value, var_name, width=600, height=500):
 
     source = df_data
     source = source.reset_index().melt(x_value, value_name=y_value, var_name=var_name)
-
 
     # Create a selection that chooses the nearest point & selects based on x-value
     nearest = alt.selection(type='single', nearest=True, on='mouseover',
@@ -90,9 +95,9 @@ def plot_time_series_with_vertical_selector(df_data, x_value, y_value, var_name,
 
     # Draw text labels near the points, and highlight based on selection
     text = line.mark_text(align='left', dx=5, dy=-5).encode(
-        text=alt.condition(nearest, 
-                        f'{y_value}:Q',
-                        alt.value(' '))
+        text=alt.condition(nearest,
+                           f'{y_value}:Q',
+                           alt.value(' '))
     )
 
     # Draw a rule at the location of the selection
@@ -109,6 +114,7 @@ def plot_time_series_with_vertical_selector(df_data, x_value, y_value, var_name,
         width=width, height=height
     )
 
+
 def plot_altair_legend_selectable(source, x_value, y_value, var_name, width=600, height=500):
     source = source.reset_index().melt(x_value, var_name=var_name, value_name=y_value)
 
@@ -119,13 +125,22 @@ def plot_altair_legend_selectable(source, x_value, y_value, var_name, width=600,
         y=f'{y_value}:Q',
         color=f'{var_name}:N',
         opacity=alt.condition(selection, alt.value(1), alt.value(0.2)),
-        tooltip = [alt.Tooltip(y_value),
-                   alt.Tooltip(var_name),
-                  ]
+        tooltip=[alt.Tooltip(y_value),
+                 alt.Tooltip(var_name),
+                 ]
     ).add_selection(
         selection
     ).interactive().properties(
         width=width, height=height
     )
 
-  
+
+def plot(df_data, title, start, end, steps):
+    years = np.arange(start, end, 1)
+    plt.figure()
+    ax = df_data.plot(kind='line', figsize=(20, 7), title=title)
+    plt.xlabel('Year / Months')
+    plt.ylabel('Inflation rate in percent')
+    plt.xticks(np.arange(0, df_data.shape[0], step=steps), years)
+    ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.05),
+              fancybox=True, shadow=True, ncol=5)

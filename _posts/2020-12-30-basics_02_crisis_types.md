@@ -1,66 +1,21 @@
 ---
 toc: true
-title: Geldschöpfung und Krisen
+title: Krisentypen
 layout: post
-description: Geldschöpfung und Krisen 
+description: Krisenmodelle, Inlfation & Deflation 
 show_tags: true
 comments: true
 categories: [basics]
-image: images/economy_logo_small.png
+image: images/crisis_types.png
 ---
 
-> „Jede Wirtschaft beruht auf dem Kredit-System, das heißt auf der irrtümlichen Annahme, der andere werde gepumptes Geld zurückzahlen.“ **Kurt Tucholsky**
+> „The crisis consists precisely in the fact the old is dying and the new cannot be born; in this interegnum a great variety of mrobid symptoms appear.“ 
+ **Antonio Gramsci, Prison Notebooks, 1971**
 
-
----
-
-## 1. Ist Geld an sich krisenanfällig?
-
-### Was ist Geld?
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CVEPzR617Z0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-### Geldfunktionen und Fallen
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5-QT4_i4b8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-### Geldtheorien
-Makroökonomische Theorien betonen - je nach zeitlichem Hintergrund - entweder die Funktionsfähigkeit der Märkte und damit die Rolle der Unternehmer oder die Rolle des Stadtes als Kriseninterventionist.
-Die Theorien wechseln meist infolge großer Krisen, wie der Großen Depression 1929, der Ölkrise 1971, der Rezessionen Anfang der 80er Jahre, der Finanzkrise 2008 und der jetzigen Corona-Krise.
-
-TODO
-
-* [Paul Krugman zur Allgemeinen Theorie der Beschäftigung, des
-Zinses und des Geldes von John Maynard Keynes](http://www.keynes-gesellschaft.de/pdf/EinleitungKrugmanStand%2004.11.06_.pdf)
-* [Neutralität des Geldes](https://de.wikipedia.org/wiki/Neutralit%C3%A4t_des_Geldes)
-* [Quantitätstheorie des Geldes](https://de.wikipedia.org/wiki/Quantit%C3%A4tstheorie)
-* [Keynes, John Maynard: Allgemeine Theorie der Beschäftigung, des Zinses und des Geldes, 1936](https://de.wikipedia.org/wiki/Allgemeine_Theorie_der_Besch%C3%A4ftigung,_des_Zinses_und_des_Geldes)
-* [History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)
-* [Modern Money Theory](https://www.handelsblatt.com/politik/international/modern-monetary-theory-eine-neue-geldtheorie-spaltet-die-wirtschaft/24108180.html?ticket=ST-4808224-wYDz5yYLqT6RcsQ1mLiy-ap3)
-* [What went wrong with economics](https://elearning.unito.it/sme/pluginfile.php/192712/course/section/41483/Economist_OnEconomics_jul09.pdf)
-
----
-
-### Wie bestimmt man den Wert des Geldes?
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=CVEPzR617Z0
-" target="_blank"><img src="http://img.youtube.com/vi/CVEPzR617Z0/0.jpg" 
-alt="Was ist Geld?" width="240" height="180" border="10" /></a>
-
-[Preiskaleidoskop](https://service.destatis.de/Voronoi/PreisKaleidoskop.svg) 
-
-
-
-### Fazit
-Krisen entstehen aus der Natur des Geldes,
-•	wenn es in Erwartung schwerer Zeiten (Sparparadox) oder durch Ungleichverteilung gehortet wird und damit die Nachfrage nach Gütern sinkt
-•	 wenn die Geldmenge stärker als die Warenmenge steigt und damit Geld keinen Wert mehr speichern kann
-
----
-
-## 2. Welche Rolle spielt die Bilanzierung der Banken für die Entstehung von Krisen?
+## 1. Welche Rolle spielt die Bilanzierung der Banken für die Entstehung von Krisen?
 ### Fehlanreize in der Funktion einer Bank
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8xGNjTLfzh4
 " target="_blank"><img src="http://img.youtube.com/vi/8xGNjTLfzh4/0.jpg" 
