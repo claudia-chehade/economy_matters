@@ -41,27 +41,32 @@ image: images/money.png
 Makroökonomische Theorien betonen - je nach zeitlichem Hintergrund - entweder die Funktionsfähigkeit der Märkte und damit die Rolle der Unternehmer oder die Rolle des Stadtes als Kriseninterventionist.
 Die Theorien wechseln meist infolge großer Krisen, wie der Großen Depression 1929, der Ölkrise 1971, der Rezessionen Anfang der 80er Jahre, der Finanzkrise 2008 und der jetzigen Corona-Krise.
 
+#### Klassische Geldtheorie & Keynesianismus
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xj_yqCo7BGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 * [Paul Krugman zur Allgemeinen Theorie der Beschäftigung, des
 Zinses und des Geldes von John Maynard Keynes](http://www.keynes-gesellschaft.de/pdf/EinleitungKrugmanStand%2004.11.06_.pdf)
 * [Neutralität des Geldes](https://de.wikipedia.org/wiki/Neutralit%C3%A4t_des_Geldes)
+* [Keynes, John Maynard: Allgemeine Theorie der Beschäftigung, des Zinses und des Geldes, 1936](https://de.wikipedia.org/wiki/
+
+#### Monetarismus & Neoklassische Gelodtheorie
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jiQMucIFcWw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Neo-Keynesianismus
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfR21ERpTBs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 * [Quantitätstheorie des Geldes](https://de.wikipedia.org/wiki/Quantit%C3%A4tstheorie)
-* [Keynes, John Maynard: Allgemeine Theorie der Beschäftigung, des Zinses und des Geldes, 1936](https://de.wikipedia.org/wiki/Allgemeine_Theorie_der_Besch%C3%A4ftigung,_des_Zinses_und_des_Geldes)
+Allgemeine_Theorie_der_Besch%C3%A4ftigung,_des_Zinses_und_des_Geldes)
 * [History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)
 * [Modern Money Theory](https://www.handelsblatt.com/politik/international/modern-monetary-theory-eine-neue-geldtheorie-spaltet-die-wirtschaft/24108180.html?ticket=ST-4808224-wYDz5yYLqT6RcsQ1mLiy-ap3)
 * [What went wrong with economics](https://elearning.unito.it/sme/pluginfile.php/192712/course/section/41483/Economist_OnEconomics_jul09.pdf)
 
 ---
 
----
-
 ### Geldfunktionen und Fallen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5-QT4_i4b8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+---
 
 ### Fazit
 Krisen entstehen aus der Natur des Geldes,
@@ -71,35 +76,22 @@ Krisen entstehen aus der Natur des Geldes,
 ---
 
 ## 2. Welche Rolle spielt die Bilanzierung der Banken für die Entstehung von Krisen?
-### Fehlanreize in der Funktion einer Bank
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8xGNjTLfzh4
-" target="_blank"><img src="http://img.youtube.com/vi/8xGNjTLfzh4/0.jpg" 
-alt="Fehlanreize in der Funktion einer Bank" width="240" height="180" border="10" /></a>
-
-### Fehlanreize im Zusammenspiel mehrerer Banken
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=BQiv8W0FYTo
-" target="_blank"><img src="http://img.youtube.com/vi/BQiv8W0FYTo/0.jpg" 
-alt="Fehlanreize im Zusammenspiel mehrerer Banken" width="240" height="180" border="10" /></a>
-
-### Zentralbankgeld versus Buchgeld
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4S81c5GnnRM
-" target="_blank"><img src="http://img.youtube.com/vi/4S81c5GnnRM/0.jpg" 
-alt="Zentralbankgeld versus Buchgeld" width="240" height="180" border="10" /></a>
-
-### Fazit
+### Was macht eine Bank krisenanfällig?
 •	Banker sind motiviert, Gewinne zu maximieren und Eigenkapital zu minimieren. Dies führt zum Anstieg des Risikos.
 •	Banken schulden kurzfristig und verlangen langfristig. Das macht sie anfällig für Bank Runs.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8xGNjTLfzh4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Wie funktioniert Geldschöpfung?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BQiv8W0FYTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Was ist der Unterschied zwischen Zentralbankgeld und Buchgeld?
+•	Die Geldschöpfung speist sich aus staatlicher und privater Quelle. Der Staat versucht die private Geldschöpfung zu steuern, was nicht (mehr) gelingt.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4S81c5GnnRM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 ## 3. Wer macht das Geld und wer entscheidet, wie viel?
-### Geldmengensteuerung
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nrUKuicTWWw
-" target="_blank"><img src="http://img.youtube.com/vi/nrUKuicTWWw/0.jpg" 
-alt="Geldmenge" width="240" height="180" border="10" /></a>
-
-### Fazit
-•	Die Geldschöpfung speist sich aus staatlicher und privater Quelle. Der Staat versucht die private Geldschöpfung zu steuern, was nicht (mehr) gelingt.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nrUKuicTWWw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
