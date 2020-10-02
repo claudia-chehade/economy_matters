@@ -1,29 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://claudia-chehade.github.io/economy_matters/feed.xml" rel="self" type="application/atom+xml" /><link href="https://claudia-chehade.github.io/economy_matters/" rel="alternate" type="text/html" /><updated>2020-10-02T08:34:09-05:00</updated><id>https://claudia-chehade.github.io/economy_matters/feed.xml</id><title type="html">Economy matters!</title><subtitle>Learn about economic and financial crisis since 1929.</subtitle><entry><title type="html">Basics_01_money_suppley</title><link href="https://claudia-chehade.github.io/economy_matters/2020/12/31/basics_01_money_suppley.html" rel="alternate" type="text/html" title="Basics_01_money_suppley" /><published>2020-12-31T00:00:00-06:00</published><updated>2020-12-31T00:00:00-06:00</updated><id>https://claudia-chehade.github.io/economy_matters/2020/12/31/basics_01_money_suppley</id><content type="html" xml:base="https://claudia-chehade.github.io/economy_matters/2020/12/31/basics_01_money_suppley.html">&lt;hr /&gt;
-
-&lt;h2 id=&quot;toc-true&quot;&gt;toc: true&lt;/h2&gt;
-&lt;p&gt;title: Geld
-layout: post
-description: Geld, Geldschöpfung und Krisen
-show_tags: true
-comments: true
-categories: [basics]
-image: images/money.png&lt;/p&gt;
-
-&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://claudia-chehade.github.io/economy_matters/feed.xml" rel="self" type="application/atom+xml" /><link href="https://claudia-chehade.github.io/economy_matters/" rel="alternate" type="text/html" /><updated>2020-10-02T08:47:15-05:00</updated><id>https://claudia-chehade.github.io/economy_matters/feed.xml</id><title type="html">Economy matters!</title><subtitle>Learn about economic and financial crisis since 1929.</subtitle><entry><title type="html">Geld</title><link href="https://claudia-chehade.github.io/economy_matters/basics/2020/12/31/basics_01_money_suppley.html" rel="alternate" type="text/html" title="Geld" /><published>2020-12-31T00:00:00-06:00</published><updated>2020-12-31T00:00:00-06:00</updated><id>https://claudia-chehade.github.io/economy_matters/basics/2020/12/31/basics_01_money_suppley</id><content type="html" xml:base="https://claudia-chehade.github.io/economy_matters/basics/2020/12/31/basics_01_money_suppley.html">&lt;blockquote&gt;
   &lt;p&gt;„Jede Wirtschaft beruht auf dem Kredit-System, das heißt auf der irrtümlichen Annahme, der andere werde gepumptes Geld zurückzahlen.“ &lt;strong&gt;Kurt Tucholsky&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;hr /&gt;
 
 &lt;h2 id=&quot;1-ist-geld-an-sich-krisenanfällig&quot;&gt;1. Ist Geld an sich krisenanfällig?&lt;/h2&gt;
 
 &lt;h3 id=&quot;was-ist-geld&quot;&gt;Was ist Geld?&lt;/h3&gt;
 
-&lt;hr /&gt;
-
 &lt;h3 id=&quot;was-beeinflusst-die-preise&quot;&gt;Was beeinflusst die Preise?&lt;/h3&gt;
-
-&lt;hr /&gt;
 
 &lt;h3 id=&quot;wie-bestimmt-man-den-geldwert&quot;&gt;Wie bestimmt man den Geldwert?&lt;/h3&gt;
 
@@ -32,8 +15,6 @@ image: images/money.png&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/HanauerMatthias/status/1229311733610795011&quot;&gt;Arbeitsstunden pro Dax-Anteil&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.flossbachvonstorch-researchinstitute.com/de/fvs-vermoegenspreisindex-fuer-die-eurozone/&quot;&gt;Vermögenspreise im Vergleich zu Konsumgüterpreisen&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
 
 &lt;h3 id=&quot;welche-theorien-zum-geldwert-gibt-es&quot;&gt;Welche Theorien zum Geldwert gibt es?&lt;/h3&gt;
 
@@ -59,8 +40,6 @@ Zinses und des Geldes von John Maynard Keynes](http://www.keynes-gesellschaft.de
   &lt;li&gt;&lt;a href=&quot;https://elearning.unito.it/sme/pluginfile.php/192712/course/section/41483/Economist_OnEconomics_jul09.pdf&quot;&gt;What went wrong with economics&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
-
 &lt;h3 id=&quot;wie-entstehen-krisen-im-geldumlauf&quot;&gt;Wie entstehen Krisen im Geldumlauf?&lt;/h3&gt;
 
 &lt;p&gt;Krisen entstehen aus der Natur des Geldes,&lt;/p&gt;
@@ -69,8 +48,6 @@ Zinses und des Geldes von John Maynard Keynes](http://www.keynes-gesellschaft.de
   &lt;li&gt;wenn es in Erwartung schwerer Zeiten (Sparparadox) oder durch Ungleichverteilung gehortet wird und damit die Nachfrage nach Gütern sinkt&lt;/li&gt;
   &lt;li&gt;wenn die Geldmenge stärker als die Warenmenge steigt und damit Geld keinen Wert mehr speichern kann&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
 
 &lt;h2 id=&quot;2-welche-rolle-spielt-die-bilanzierung-der-banken-für-die-entstehung-von-krisen&quot;&gt;2. Welche Rolle spielt die Bilanzierung der Banken für die Entstehung von Krisen?&lt;/h2&gt;
 
@@ -85,11 +62,7 @@ Zinses und des Geldes von John Maynard Keynes](http://www.keynes-gesellschaft.de
 
 &lt;p&gt;•	Die Geldschöpfung speist sich aus staatlicher und privater Quelle. Der Staat versucht die private Geldschöpfung zu steuern, was nicht (mehr) gelingt.&lt;/p&gt;
 
-&lt;hr /&gt;
-
 &lt;h2 id=&quot;3-wer-macht-das-geld-und-wer-entscheidet-wie-viel&quot;&gt;3. Wer macht das Geld und wer entscheidet\, wie viel?&lt;/h2&gt;
-
-&lt;hr /&gt;
 
 &lt;h1 id=&quot;literatur&quot;&gt;Literatur&lt;/h1&gt;
 
@@ -102,42 +75,13 @@ Zinses und des Geldes von John Maynard Keynes](http://www.keynes-gesellschaft.de
   &lt;li&gt;Sebastian Mallaby: Mehr Geld als Gott: Hedgefonds und ihre Allmachtsphantasien, 2011&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
-
 &lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Krisentypen</title><link href="https://claudia-chehade.github.io/economy_matters/basics/2020/12/30/basics_02_crisis_types.html" rel="alternate" type="text/html" title="Krisentypen" /><published>2020-12-30T00:00:00-06:00</published><updated>2020-12-30T00:00:00-06:00</updated><id>https://claudia-chehade.github.io/economy_matters/basics/2020/12/30/basics_02_crisis_types</id><content type="html" xml:base="https://claudia-chehade.github.io/economy_matters/basics/2020/12/30/basics_02_crisis_types.html">&lt;blockquote&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">„Jede Wirtschaft beruht auf dem Kredit-System, das heißt auf der irrtümlichen Annahme, der andere werde gepumptes Geld zurückzahlen.“ Kurt Tucholsky</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://claudia-chehade.github.io/economy_matters/images/money.png" /><media:content medium="image" url="https://claudia-chehade.github.io/economy_matters/images/money.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Krisentypen</title><link href="https://claudia-chehade.github.io/economy_matters/basics/2020/12/30/basics_02_crisis_types.html" rel="alternate" type="text/html" title="Krisentypen" /><published>2020-12-30T00:00:00-06:00</published><updated>2020-12-30T00:00:00-06:00</updated><id>https://claudia-chehade.github.io/economy_matters/basics/2020/12/30/basics_02_crisis_types</id><content type="html" xml:base="https://claudia-chehade.github.io/economy_matters/basics/2020/12/30/basics_02_crisis_types.html">&lt;blockquote&gt;
   &lt;p&gt;„The crisis consists precisely in the fact the old is dying and the new cannot be born; in this interegnum a great variety of mrobid symptoms appear.“ 
  &lt;strong&gt;Antonio Gramsci, Prison Notebooks, 1971&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;1-welche-rolle-spielt-die-bilanzierung-der-banken-für-die-entstehung-von-krisen&quot;&gt;1. Welche Rolle spielt die Bilanzierung der Banken für die Entstehung von Krisen?&lt;/h2&gt;
-&lt;h3 id=&quot;fehlanreize-in-der-funktion-einer-bank&quot;&gt;Fehlanreize in der Funktion einer Bank&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=8xGNjTLfzh4 &quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/8xGNjTLfzh4/0.jpg&quot; alt=&quot;Fehlanreize in der Funktion einer Bank&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;fehlanreize-im-zusammenspiel-mehrerer-banken&quot;&gt;Fehlanreize im Zusammenspiel mehrerer Banken&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=BQiv8W0FYTo &quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/BQiv8W0FYTo/0.jpg&quot; alt=&quot;Fehlanreize im Zusammenspiel mehrerer Banken&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;zentralbankgeld-versus-buchgeld&quot;&gt;Zentralbankgeld versus Buchgeld&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=4S81c5GnnRM &quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/4S81c5GnnRM/0.jpg&quot; alt=&quot;Zentralbankgeld versus Buchgeld&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;fazit&quot;&gt;Fazit&lt;/h3&gt;
-&lt;p&gt;•	Banker sind motiviert, Gewinne zu maximieren und Eigenkapital zu minimieren. Dies führt zum Anstieg des Risikos.
-•	Banken schulden kurzfristig und verlangen langfristig. Das macht sie anfällig für Bank Runs.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-wer-macht-das-geld-und-wer-entscheidet-wie-viel&quot;&gt;3. Wer macht das Geld und wer entscheidet, wie viel?&lt;/h2&gt;
-&lt;h3 id=&quot;geldmengensteuerung&quot;&gt;Geldmengensteuerung&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=nrUKuicTWWw &quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/nrUKuicTWWw/0.jpg&quot; alt=&quot;Geldmenge&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;fazit-1&quot;&gt;Fazit&lt;/h3&gt;
-&lt;p&gt;•	Die Geldschöpfung speist sich aus staatlicher und privater Quelle. Der Staat versucht die private Geldschöpfung zu steuern, was nicht (mehr) gelingt.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-kann-man-krisen-voraussagen&quot;&gt;4. Kann man Krisen voraussagen?&lt;/h2&gt;
+&lt;h2 id=&quot;kann-man-krisen-voraussagen&quot;&gt;Kann man Krisen voraussagen?&lt;/h2&gt;
 &lt;h3 id=&quot;finanzzyklen&quot;&gt;Finanzzyklen&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=efOzCrLZu74 &quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/efOzCrLZu74/0.jpg&quot; alt=&quot;Finanzzyklen&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=dJMiVGlnLSc&quot;&gt;How the economic machine works&lt;/a&gt;&lt;/p&gt;
@@ -170,19 +114,7 @@ Zinses und des Geldes von John Maynard Keynes](http://www.keynes-gesellschaft.de
   &lt;li&gt;Sebastian Mallaby: Mehr Geld als Gott: Hedgefonds und ihre Allmachtsphantasien, 2011&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><summary type="html">„The crisis consists precisely in the fact the old is dying and the new cannot be born; in this interegnum a great variety of mrobid symptoms appear.“  Antonio Gramsci, Prison Notebooks, 1971</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://claudia-chehade.github.io/economy_matters/images/crisis_types.png" /><media:content medium="image" url="https://claudia-chehade.github.io/economy_matters/images/crisis_types.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Basics_03_great_depression</title><link href="https://claudia-chehade.github.io/economy_matters/2020/12/29/basics_03_great_depression.html" rel="alternate" type="text/html" title="Basics_03_great_depression" /><published>2020-12-29T00:00:00-06:00</published><updated>2020-12-29T00:00:00-06:00</updated><id>https://claudia-chehade.github.io/economy_matters/2020/12/29/basics_03_great_depression</id><content type="html" xml:base="https://claudia-chehade.github.io/economy_matters/2020/12/29/basics_03_great_depression.html">&lt;hr /&gt;
-
-&lt;h2 id=&quot;toc-true&quot;&gt;toc: true&lt;/h2&gt;
-
-&lt;p&gt;title: Die Große Depression 1929
-layout: post
-description: Prototype einer Deflationskrise
-show_tags: true
-comments: true
-categories: [depression, deflation]
-image: images/great_depression.png&lt;/p&gt;
-
-&lt;blockquote&gt;
+&lt;hr /&gt;</content><author><name></name></author><summary type="html">„The crisis consists precisely in the fact the old is dying and the new cannot be born; in this interegnum a great variety of mrobid symptoms appear.“  Antonio Gramsci, Prison Notebooks, 1971</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://claudia-chehade.github.io/economy_matters/images/crisis_types.png" /><media:content medium="image" url="https://claudia-chehade.github.io/economy_matters/images/crisis_types.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Die Große Depression 1929</title><link href="https://claudia-chehade.github.io/economy_matters/depression/deflation/2020/12/29/basics_03_great_depression.html" rel="alternate" type="text/html" title="Die Große Depression 1929" /><published>2020-12-29T00:00:00-06:00</published><updated>2020-12-29T00:00:00-06:00</updated><id>https://claudia-chehade.github.io/economy_matters/depression/deflation/2020/12/29/basics_03_great_depression</id><content type="html" xml:base="https://claudia-chehade.github.io/economy_matters/depression/deflation/2020/12/29/basics_03_great_depression.html">&lt;blockquote&gt;
   &lt;p&gt;„An entire nation, it seemed, was standing in one long breadline, desparate for even the barest essentials. It was a crisis of monumental proportions.“
 **Kathi Appelt, Schriftstellerin
 **&lt;/p&gt;
@@ -204,54 +136,55 @@ Welche Erklärungsmodelle gibt es für die Große Depression?
 Welche Folgen hatte die Große Depression?&lt;/p&gt;
 
 &lt;h3 id=&quot;welche-rolle-spielte-die-aktienspekulation&quot;&gt;Welche Rolle spielte die Aktienspekulation?&lt;/h3&gt;
+
 &lt;p&gt;In den Zwanziger Jahren löste der Ausbau des Strom- und Telefonnetzes einen Aktienboom aus. An der Spekulation beteiligten sich alle Schichten der Bevölkerung. Gerade die Geringverdiener nahmen Schaden im Aktien-Crash 1929, der ihre gesamten Ersparnisse vernichtete.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZdekoMDtCTE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;welche-rolle-spielte-die-verschuldung-der-landwirtschaft&quot;&gt;Welche Rolle spielte die Verschuldung der Landwirtschaft?&lt;/h3&gt;
+
 &lt;p&gt;Schon während des Ersten Weltkrieges hatte die Technisierung der Landwirtschaft in den USA begonnen. Farmer kauften in großem Stil Traktoren und verschuldeten sich dafür langfristig bei den vielen kleinen damals existierenden Banken. Während sich Europa in dieser Zeit vom Krieg erholte, konnten amerikanische Farmer weniger Produkte nach Europa exportieren. Damit wurde es schwieriger die Kredite zurück zu zahlen.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/179djHdoumY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;welche-rolle-spielte-die-private-verschuldung&quot;&gt;Welche Rolle spielte die private Verschuldung?&lt;/h3&gt;
+
 &lt;p&gt;Die private Verschuldung in den Zwanziger Jahren nahm drastisch zu. Zum einen verdienten die Leute mehr und blickten optimistischer in die Zukunft. Zum anderen wurde es ihnen leicht gemacht, sich über Konsumentenkredite Produkte zu leisten, die sie später bezahlen würden.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RywesP-Z4gk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;welche-rolle-spielte-die-ungleichheit-der-einkommen&quot;&gt;Welche Rolle spielte die Ungleichheit der Einkommen?&lt;/h3&gt;
+
 &lt;p&gt;Ende der 20er Jahre hielten 5% der Amerikaner etwa ein Drittel der Vermögen. Diese Geld ging zum einen in den Kauf von Aktien, zum anderen spekulierten die Vermögenden mit Land (“Florida-Land-Boom”).&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ljRX65JPqDc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h4 id=&quot;wie-entwickelte-sich-die-deflation-zur-depression&quot;&gt;Wie entwickelte sich die Deflation zur Depression?&lt;/h4&gt;
-&lt;p&gt;Der Nachfrageeinbruch in der Landwirtschaft weitete sich zur Binnenwirtschaftskrise aus. Gleichzeitig erhöhte die FED 1928 den Leitzins, um die Aktien-und Immobilienblase zu entschärfen. Damit verschlimmerte sie jedoch die Situation der Schuldner, was zum Default vieler Kredite führte. Daraus folgten etliche Bankenkrisen, die das Vertrauen der Einleger erschütterten. Das löste Bankruns aus, was zum flächendeckenden Zusammenbruch von Banken führte.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EClxiN-OhoI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;img src=&quot;images/bank_run.png&quot; alt=&quot;Bank Runs USA 1921 bis 1933&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Der Nachfrageeinbruch in der Landwirtschaft weitete sich zur Binnenwirtschaftskrise aus. Gleichzeitig erhöhte die FED 1928 den Leitzins, um die Aktien-und Immobilienblase zu entschärfen. Damit verschlimmerte sie jedoch die Situation der Schuldner, was zum Default vieler Kredite führte. Daraus folgten etliche Bankenkrisen, die das Vertrauen der Einleger erschütterten. Das löste Bankruns aus, was zum flächendeckenden Zusammenbruch von Banken führte.
+![Bank Runs USA 1921 bis 1933](images/bank_run.png)&lt;/p&gt;
 
 &lt;h4 id=&quot;welche-sozialen-folgen-hatte-die-große-depression&quot;&gt;Welche sozialen Folgen hatte die Große Depression?&lt;/h4&gt;
+
 &lt;p&gt;Amerikaner quer durch alle sozialen Schichten büßten Vermögen ein. Die Landbevölkerung machte sich auf den Weg in die Städte und siedelte sich in Slums an.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/h0kzPfQXM44&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h4 id=&quot;wie-funktionierte-der-new-deal-1933---1936&quot;&gt;Wie funktionierte der New Deal 1933 - 1936?&lt;/h4&gt;
+
 &lt;p&gt;Roosevelts Poltik des New Deals brachte die Bankenkrise zum Stillstand, verschaffte den USA bessere Exportschancen durch die Auflösung der Goldbindung und die Abwertung des Dollar, stoppte die Deflationsspirale durch Preisgesetze und wendete nicht zuletzt einen drohenden Bürgerkrieg und soziale Unruhen durch Unterstützungsprogramme ab. Doch die Bedeutung des New Deals geht weit über die beendigung der aktuten Krise hinaus. Die Einführung des Trennbankensystems stablisierte den Finansektor für fast 70 Jahre. Das Finanzsystem wurde transparenter und weniger anfällig für spekulative Attacken.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OqksPRAnNvA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h2 id=&quot;2-wie-weitete-sich-die-große-depression-in-den-usa-zur-weltwirtschaftskrise-aus&quot;&gt;2. Wie weitete sich die Große Depression in den USA zur Weltwirtschaftskrise aus?&lt;/h2&gt;
 
 &lt;h3 id=&quot;was-bedeutete-das-ende-des-goldzyklus-und-die-aufhebung-der-goldbindung&quot;&gt;Was bedeutete das Ende des Goldzyklus und die Aufhebung der Goldbindung?&lt;/h3&gt;
+
 &lt;p&gt;Vor dem ersten Weltkrieg existierte der sogennate Goldzyklus. Dies war der automatische Ausgleich von Niveauunterschieden im Goldbesitz der Nationen.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gMQh1Zmmew4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;wie-entwickelte-sich-der-handelskrieg&quot;&gt;Wie entwickelte sich der Handelskrieg?&lt;/h3&gt;
+
 &lt;p&gt;„Ruiniere Deinen Nächsten wie Dich selbst“
 Der Handels- und Finanzkrieg wurde auf mehreren Gebieten geführt: Leitzinsen, Auflösung der Goldbindung (=Abwertung der Währung) und Errichtung von Schutzzöllen
 Auslösendes Moment ist die Anhebung der Zinsen durch die FED 1928/29. Daraufhin strömt Gold nach Amerika. Das löst einen Wettlauf der Hochzinspolitik aus. In der Konsequenz lösen Argentinien, Brasilien und Großbritannien die Goldbindung auf. Amerikanische Exporte verteuern sich, südamerikanische Exporte in die USA konkurrieren dort um die Binnennachfrage.
 Mit der Bankenkrise in den USA versiegen die Kredite nach Deutschland und lassen deutsche Banken zusammenbrechen.
-Frankreichs Wirtschaft gerät durch billige englische Importe in die Krise.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2VF2JARiN_M&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;img src=&quot;images/smooth_hawley_tariff_act_context.png&quot; alt=&quot;Der Smooth-Hawley-Tariff-Act im Geschichtskontext 1930&quot; /&gt;&lt;/p&gt;
+Frankreichs Wirtschaft gerät durch billige englische Importe in die Krise.
+![Der Smooth-Hawley-Tariff-Act im Geschichtskontext 1930](images/smooth_hawley_tariff_act_context.png)&lt;/p&gt;
 
 &lt;h3 id=&quot;wiederholen-sich-die-30er-jahre&quot;&gt;Wiederholen sich die 30er Jahre?&lt;/h3&gt;
+
 &lt;p&gt;Es gibt zahlreiche Parallen zwischen der Finanzkrise 2008 und der Weltwirtschaftskrise Anfang der 30er Jahre. Gerade die Reaktion auf die Krisen unterscheidet sich jedoch deutlich. Da das Hauptinstrument der Krisenbekämpfung - die Ausweitung der Geldmenge - in der jetzigen Corona-Krise an seine Grenzen gerät, stellt sich die Frage nach den Parallelen und den Konsequenzen der Großen Depression 1929 bis 1933 erneut.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EO8FnoDU_V8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h2 id=&quot;fazit&quot;&gt;Fazit&lt;/h2&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Es besteht keine Einigkeit über die Ursachen der Großen Depression:
 Konservative betonen die Rolle der Zinsen, der Geldmenge und der privaten Verschuldung
@@ -261,13 +194,50 @@ Konservative halten den New Deal für kontraproduktiv und glauben, die Depressio
 Liberale halten die Wirkung des New Deals für erwiesen.&lt;/li&gt;
   &lt;li&gt;Die Große Depression war ein amerikanisches Phänomen, das durch den folgenden Handelskrieg in eine Weltwirtschaftskrise ausgeweitet wurde.&lt;/li&gt;
   &lt;li&gt;Abwertungswettlauf und Schutzzölle schädigten alle Wirtschaften.&lt;/li&gt;
-  &lt;li&gt;Die  Goldbindung wurde aufgehoben, da dem Kreislauf Gold durch die FED entzogen wurde. Dem Abwertungswettlauf konnte sich kein Land entziehen.&lt;/li&gt;
+  &lt;li&gt;Die Goldbindung wurde aufgehoben, da dem Kreislauf Gold durch die FED entzogen wurde. Dem Abwertungswettlauf konnte sich kein Land entziehen.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;literatur&quot;&gt;Literatur&lt;/h1&gt;
-
 &lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Money Suppley in Euro zone countries 1980- 2020</title><link href="https://claudia-chehade.github.io/economy_matters/ecb/m1/m2/m3/money%20suppley/2020/10/01/m1_m2_m3.html" rel="alternate" type="text/html" title="Money Suppley in Euro zone countries 1980- 2020" /><published>2020-10-01T00:00:00-05:00</published><updated>2020-10-01T00:00:00-05:00</updated><id>https://claudia-chehade.github.io/economy_matters/ecb/m1/m2/m3/money%20suppley/2020/10/01/m1_m2_m3</id><content type="html" xml:base="https://claudia-chehade.github.io/economy_matters/ecb/m1/m2/m3/money%20suppley/2020/10/01/m1_m2_m3.html">&lt;!--
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">„An entire nation, it seemed, was standing in one long breadline, desparate for even the barest essentials. It was a crisis of monumental proportions.“ **Kathi Appelt, Schriftstellerin **</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://claudia-chehade.github.io/economy_matters/images/great%5C_depression.png" /><media:content medium="image" url="https://claudia-chehade.github.io/economy_matters/images/great%5C_depression.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Die Große Depression 1929</title><link href="https://claudia-chehade.github.io/economy_matters/depression/deflation/2020/12/28/basics_04_hyperinflation.html" rel="alternate" type="text/html" title="Die Große Depression 1929" /><published>2020-12-28T00:00:00-06:00</published><updated>2020-12-28T00:00:00-06:00</updated><id>https://claudia-chehade.github.io/economy_matters/depression/deflation/2020/12/28/basics_04_hyperinflation</id><content type="html" xml:base="https://claudia-chehade.github.io/economy_matters/depression/deflation/2020/12/28/basics_04_hyperinflation.html">&lt;blockquote&gt;
+  &lt;p&gt;„Inflation is like toothpaste. Once it is out, you can hardly get it back in again.“&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;**Karl Otto Pohl
+**&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;hyperinflation&quot;&gt;Hyperinflation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Warum treten Hyperinflationen auf? Unter welchen Umständen?&lt;/li&gt;
+  &lt;li&gt;Wer sind Gewinner, wer sind Verlierer einer Hyperinflation?&lt;/li&gt;
+  &lt;li&gt;Was sind die Folgen einer Hyperinflation?&lt;/li&gt;
+  &lt;li&gt;Wie können Hyperinflationen beendet werden?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;was-ist-hyperinflation-und-wer-treibt-sie&quot;&gt;Was ist Hyperinflation und wer treibt sie?&lt;/h2&gt;
+
+&lt;p&gt;Hyperinflation ist ein exponentielles Phänomen das die Grundlage des Geldsystems, der Wirtschaft und in der Endphase der Gesellschaft zerstört. Treiber der Hyperinflation ist der Staat.&lt;/p&gt;
+
+&lt;h2 id=&quot;fazit&quot;&gt;Fazit&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Es besteht keine Einigkeit über die Ursachen der Großen Depression:
+Konservative betonen die Rolle der Zinsen, der Geldmenge und der privaten Verschuldung
+Liberale betonen die Rolle der ungleichen Vermögen und des Nachfrageeinbruchs&lt;/li&gt;
+  &lt;li&gt;Die Wirkung des New Deals auf die Beendigung der Großen Depression ist umstritten.
+Konservative halten den New Deal für kontraproduktiv und glauben, die Depression sei erst durch die Rüstungsausgaben beendet worden.
+Liberale halten die Wirkung des New Deals für erwiesen.&lt;/li&gt;
+  &lt;li&gt;Die Große Depression war ein amerikanisches Phänomen, das durch den folgenden Handelskrieg in eine Weltwirtschaftskrise ausgeweitet wurde.&lt;/li&gt;
+  &lt;li&gt;Abwertungswettlauf und Schutzzölle schädigten alle Wirtschaften.&lt;/li&gt;
+  &lt;li&gt;Die Goldbindung wurde aufgehoben, da dem Kreislauf Gold durch die FED entzogen wurde. Dem Abwertungswettlauf konnte sich kein Land entziehen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;literatur&quot;&gt;Literatur&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">„Inflation is like toothpaste. Once it is out, you can hardly get it back in again.“</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://claudia-chehade.github.io/economy_matters/images/great%5C_depression.png" /><media:content medium="image" url="https://claudia-chehade.github.io/economy_matters/images/great%5C_depression.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Money Suppley in Euro zone countries 1980- 2020</title><link href="https://claudia-chehade.github.io/economy_matters/ecb/m1/m2/m3/money%20suppley/2020/10/01/m1_m2_m3.html" rel="alternate" type="text/html" title="Money Suppley in Euro zone countries 1980- 2020" /><published>2020-10-01T00:00:00-05:00</published><updated>2020-10-01T00:00:00-05:00</updated><id>https://claudia-chehade.github.io/economy_matters/ecb/m1/m2/m3/money%20suppley/2020/10/01/m1_m2_m3</id><content type="html" xml:base="https://claudia-chehade.github.io/economy_matters/ecb/m1/m2/m3/money%20suppley/2020/10/01/m1_m2_m3.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
