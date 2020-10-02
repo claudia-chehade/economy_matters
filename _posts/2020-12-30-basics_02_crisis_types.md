@@ -13,44 +13,8 @@ image: images/crisis_types.png
  **Antonio Gramsci, Prison Notebooks, 1971**
 
 
----
 
-## 1. Welche Rolle spielt die Bilanzierung der Banken für die Entstehung von Krisen?
-### Fehlanreize in der Funktion einer Bank
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8xGNjTLfzh4
-" target="_blank"><img src="http://img.youtube.com/vi/8xGNjTLfzh4/0.jpg" 
-alt="Fehlanreize in der Funktion einer Bank" width="240" height="180" border="10" /></a>
-
-### Fehlanreize im Zusammenspiel mehrerer Banken
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=BQiv8W0FYTo
-" target="_blank"><img src="http://img.youtube.com/vi/BQiv8W0FYTo/0.jpg" 
-alt="Fehlanreize im Zusammenspiel mehrerer Banken" width="240" height="180" border="10" /></a>
-
-### Zentralbankgeld versus Buchgeld
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4S81c5GnnRM
-" target="_blank"><img src="http://img.youtube.com/vi/4S81c5GnnRM/0.jpg" 
-alt="Zentralbankgeld versus Buchgeld" width="240" height="180" border="10" /></a>
-
-### Fazit
-•	Banker sind motiviert, Gewinne zu maximieren und Eigenkapital zu minimieren. Dies führt zum Anstieg des Risikos.
-•	Banken schulden kurzfristig und verlangen langfristig. Das macht sie anfällig für Bank Runs.
-
----
-
-## 3. Wer macht das Geld und wer entscheidet, wie viel?
-### Geldmengensteuerung
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nrUKuicTWWw
-" target="_blank"><img src="http://img.youtube.com/vi/nrUKuicTWWw/0.jpg" 
-alt="Geldmenge" width="240" height="180" border="10" /></a>
-
-### Fazit
-•	Die Geldschöpfung speist sich aus staatlicher und privater Quelle. Der Staat versucht die private Geldschöpfung zu steuern, was nicht (mehr) gelingt.
-
----
-
-
-
-## 4. Kann man Krisen voraussagen?
+## Kann man Krisen voraussagen?
 ### Finanzzyklen
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=efOzCrLZu74
 " target="_blank"><img src="http://img.youtube.com/vi/efOzCrLZu74/0.jpg" 

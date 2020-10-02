@@ -1,6 +1,5 @@
-- - -
-
-## toc: true
+---
+toc: true
 title: Geld
 layout: post
 description: Geld, Geldschöpfung und Krisen
@@ -8,20 +7,20 @@ show\_tags: true
 comments: true
 categories: [basics]
 image: images/money.png
-
+---
 > „Jede Wirtschaft beruht auf dem Kredit-System, das heißt auf der irrtümlichen Annahme, der andere werde gepumptes Geld zurückzahlen.“ **Kurt Tucholsky**
 
-- - -
+
 
 ## 1\. Ist Geld an sich krisenanfällig?
 
 ### Was ist Geld?
 
-- - -
+
 
 ### Was beeinflusst die Preise?
 
-- - -
+
 
 ### Wie bestimmt man den Geldwert?
 
@@ -29,7 +28,7 @@ image: images/money.png
 * [Arbeitsstunden pro Dax-Anteil](https://twitter.com/HanauerMatthias/status/1229311733610795011)
 * [Vermögenspreise im Vergleich zu Konsumgüterpreisen](https://www.flossbachvonstorch-researchinstitute.com/de/fvs-vermoegenspreisindex-fuer-die-eurozone/)
 
-- - -
+
 
 ### Welche Theorien zum Geldwert gibt es?
 
@@ -53,7 +52,6 @@ Zinses und des Geldes von John Maynard Keynes\]\(http://www\.keynes\-gesellschaf
 * [Modern Money Theory](https://www.handelsblatt.com/politik/international/modern-monetary-theory-eine-neue-geldtheorie-spaltet-die-wirtschaft/24108180.html?ticket=ST-4808224-wYDz5yYLqT6RcsQ1mLiy-ap3)
 * [What went wrong with economics](https://elearning.unito.it/sme/pluginfile.php/192712/course/section/41483/Economist_OnEconomics_jul09.pdf)
 
-- - -
 
 ### Wie entstehen Krisen im Geldumlauf?
 
@@ -62,7 +60,6 @@ Krisen entstehen aus der Natur des Geldes,
 * wenn es in Erwartung schwerer Zeiten (Sparparadox) oder durch Ungleichverteilung gehortet wird und damit die Nachfrage nach Gütern sinkt
 * wenn die Geldmenge stärker als die Warenmenge steigt und damit Geld keinen Wert mehr speichern kann
 
-- - -
 
 ## 2\. Welche Rolle spielt die Bilanzierung der Banken für die Entstehung von Krisen?
 
@@ -77,11 +74,11 @@ Krisen entstehen aus der Natur des Geldes,
 
 •	Die Geldschöpfung speist sich aus staatlicher und privater Quelle. Der Staat versucht die private Geldschöpfung zu steuern, was nicht (mehr) gelingt.
 
-- - -
+ 
 
 ## 3\. Wer macht das Geld und wer entscheidet\, wie viel?
 
-- - -
+
 
 # Literatur
 
@@ -92,7 +89,7 @@ Krisen entstehen aus der Natur des Geldes,
 * David Graeber: Schulden. Die ersten 5000 Jahre, 2013
 * Sebastian Mallaby: Mehr Geld als Gott: Hedgefonds und ihre Allmachtsphantasien, 2011
 
-- - -
+
 
 <br>
 <br>
