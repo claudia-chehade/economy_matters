@@ -12,10 +12,9 @@ image: images/great_depression.png
 > \*\*Kathi Appelt, Schriftstellerin
 > \*\*
 
-- - -
 
-## 1\. Die Große Depression in den USA 1929
 
+## 1. Die Große Depression in den USA 1929
 Warum interessieren wir uns für diese weit zurückliegende Krise?
 
 * Die Große Depression als Vorgeschichte des Zivilisationszusammenbruchs
@@ -41,20 +40,20 @@ Die private Verschuldung in den Zwanziger Jahren nahm drastisch zu. Zum einen ve
 
 Ende der 20er Jahre hielten 5% der Amerikaner etwa ein Drittel der Vermögen. Diese Geld ging zum einen in den Kauf von Aktien, zum anderen spekulierten die Vermögenden mit Land ("Florida-Land-Boom").
 
-#### Wie entwickelte sich die Deflation zur Depression?
+### Wie entwickelte sich die Deflation zur Depression?
 
 Der Nachfrageeinbruch in der Landwirtschaft weitete sich zur Binnenwirtschaftskrise aus. Gleichzeitig erhöhte die FED 1928 den Leitzins, um die Aktien-und Immobilienblase zu entschärfen. Damit verschlimmerte sie jedoch die Situation der Schuldner, was zum Default vieler Kredite führte. Daraus folgten etliche Bankenkrisen, die das Vertrauen der Einleger erschütterten. Das löste Bankruns aus, was zum flächendeckenden Zusammenbruch von Banken führte.
-\!\[Bank Runs USA 1921 bis 1933\]\(images/bank\_run\.png\)
+![Bank Runs USA 1921 bis 1933](images/bank_run.png)
 
-#### Welche sozialen Folgen hatte die Große Depression?
+### Welche sozialen Folgen hatte die Große Depression?
 
 Amerikaner quer durch alle sozialen Schichten büßten Vermögen ein. Die Landbevölkerung machte sich auf den Weg in die Städte und siedelte sich in Slums an.
 
-#### Wie funktionierte der New Deal 1933 - 1936?
+### Wie funktionierte der New Deal 1933 - 1936?
 
 Roosevelts Poltik des New Deals brachte die Bankenkrise zum Stillstand, verschaffte den USA bessere Exportschancen durch die Auflösung der Goldbindung und die Abwertung des Dollar, stoppte die Deflationsspirale durch Preisgesetze und wendete nicht zuletzt einen drohenden Bürgerkrieg und soziale Unruhen durch Unterstützungsprogramme ab. Doch die Bedeutung des New Deals geht weit über die beendigung der aktuten Krise hinaus. Die Einführung des Trennbankensystems stablisierte den Finansektor für fast 70 Jahre. Das Finanzsystem wurde transparenter und weniger anfällig für spekulative Attacken.
 
-## 2\. Wie weitete sich die Große Depression in den USA zur Weltwirtschaftskrise aus?
+## 2. Wie weitete sich die Große Depression in den USA zur Weltwirtschaftskrise aus?
 
 ### Was bedeutete das Ende des Goldzyklus und die Aufhebung der Goldbindung?
 
@@ -67,10 +66,9 @@ Der Handels- und Finanzkrieg wurde auf mehreren Gebieten geführt: Leitzinsen, A
 Auslösendes Moment ist die Anhebung der Zinsen durch die FED 1928/29. Daraufhin strömt Gold nach Amerika. Das löst einen Wettlauf der Hochzinspolitik aus. In der Konsequenz lösen Argentinien, Brasilien und Großbritannien die Goldbindung auf. Amerikanische Exporte verteuern sich, südamerikanische Exporte in die USA konkurrieren dort um die Binnennachfrage.
 Mit der Bankenkrise in den USA versiegen die Kredite nach Deutschland und lassen deutsche Banken zusammenbrechen.
 Frankreichs Wirtschaft gerät durch billige englische Importe in die Krise.
-\!\[Der Smooth\-Hawley\-Tariff\-Act im Geschichtskontext 1930\]\(images/smooth\_hawley\_tariff\_act\_context\.png\)
+![Der Smooth-Hawley-Tariff-Act im Geschichtskontext 1930](images/smooth_hawley_tariff_act_context.png\)
 
 ### Wiederholen sich die 30er Jahre?
-
 Es gibt zahlreiche Parallen zwischen der Finanzkrise 2008 und der Weltwirtschaftskrise Anfang der 30er Jahre. Gerade die Reaktion auf die Krisen unterscheidet sich jedoch deutlich. Da das Hauptinstrument der Krisenbekämpfung - die Ausweitung der Geldmenge - in der jetzigen Corona-Krise an seine Grenzen gerät, stellt sich die Frage nach den Parallelen und den Konsequenzen der Großen Depression 1929 bis 1933 erneut.
 
 ## Fazit
