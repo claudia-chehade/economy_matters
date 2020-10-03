@@ -81,7 +81,6 @@ Krisen entstehen aus der Natur des Geldes,
 
 
 # Literatur
-
 * Carmen M. Reinhart, Kenneth S. Rogoff: Diese Mal ist alles anders. Acht Jahrhunderte Finanzkrisen, 2010
 * Niall Ferguson: Der Aufstieg des Geldes. Die Währung der Geschichte, 2010
 * David Miles, Andrew Scott, Francis Breedon: Makroökonomie. Globale Wirtschaftszusammenhänge verstehen, 2014
