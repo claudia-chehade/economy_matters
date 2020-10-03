@@ -15,37 +15,37 @@ image: images/money.png
 ## 1\. Ist Geld an sich krisenanfällig?
 
 ### Was ist Geld?
-
+Geld ist ein Symbol für eine bestimmte Warenmenge, die den zeitverzögerten Tausch von allem in alles erlaubt.Die Grundlage des Geldes ist Vertrauen.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CVEPzR617Z0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Was beeinflusst die Preise?
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTAcWiqvpig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Wie bestimmt man den Geldwert?
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rWYgxCDmbNk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [Preiskaleidoskop](https://service.destatis.de/Voronoi/PreisKaleidoskop.svg)
 * [Arbeitsstunden pro Dax-Anteil](https://twitter.com/HanauerMatthias/status/1229311733610795011)
 * [Vermögenspreise im Vergleich zu Konsumgüterpreisen](https://www.flossbachvonstorch-researchinstitute.com/de/fvs-vermoegenspreisindex-fuer-die-eurozone/)
 
 
-
 ### Welche Theorien zum Geldwert gibt es?
-
 Makroökonomische Theorien betonen - je nach zeitlichem Hintergrund - entweder die Funktionsfähigkeit der Märkte und damit die Rolle der Unternehmer oder die Rolle des Stadtes als Kriseninterventionist.
 Die Theorien wechseln meist infolge großer Krisen, wie der Großen Depression 1929, der Ölkrise 1971, der Rezessionen Anfang der 80er Jahre, der Finanzkrise 2008 und der jetzigen Corona-Krise.
 
 #### Klassische Geldtheorie & Keynesianismus
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xj_yqCo7BGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 \* \[Paul Krugman zur Allgemeinen Theorie der Beschäftigung\, des
 Zinses und des Geldes von John Maynard Keynes\]\(http://www\.keynes\-gesellschaft\.de/pdf/EinleitungKrugmanStand%2004\.11\.06\_\.pdf\)
 \* \[Neutralität des Geldes\]\(https://de\.wikipedia\.org/wiki/Neutralit%C3%A4t\_des\_Geldes\)
 \* \[Keynes\, John Maynard: Allgemeine Theorie der Beschäftigung\, des Zinses und des Geldes\, 1936\]\(https://de\.wikipedia\.org/wiki/\)
 
 #### Monetarismus & Neoklassische Geldtheorie
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jiQMucIFcWw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Neo-Keynesianismus
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfR21ERpTBs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [Quantitätstheorie des Geldes](https://de.wikipedia.org/wiki/Quantit%C3%A4tstheorie)
 * Allgemeine\_Theorie\_der\_Besch%C3%A4ftigung,\_des\_Zinses\_und\_des\_Geldes
 * [History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)
@@ -56,28 +56,28 @@ Zinses und des Geldes von John Maynard Keynes\]\(http://www\.keynes\-gesellschaf
 ### Wie entstehen Krisen im Geldumlauf?
 
 Krisen entstehen aus der Natur des Geldes,
-
 * wenn es in Erwartung schwerer Zeiten (Sparparadox) oder durch Ungleichverteilung gehortet wird und damit die Nachfrage nach Gütern sinkt
 * wenn die Geldmenge stärker als die Warenmenge steigt und damit Geld keinen Wert mehr speichern kann
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5-QT4_i4b8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 2\. Welche Rolle spielt die Bilanzierung der Banken für die Entstehung von Krisen?
+## 2. Welche Rolle spielt die Bilanzierung der Banken für die Entstehung von Krisen?
 
 ### Was macht eine Bank krisenanfällig?
-
 •	Banker sind motiviert, Gewinne zu maximieren und Eigenkapital zu minimieren. Dies führt zum Anstieg des Risikos.
 •	Banken schulden kurzfristig und verlangen langfristig. Das macht sie anfällig für Bank Runs.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8xGNjTLfzh4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Wie funktioniert Geldschöpfung?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BQiv8W0FYTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Was ist der Unterschied zwischen Zentralbankgeld und Buchgeld?
-
 •	Die Geldschöpfung speist sich aus staatlicher und privater Quelle. Der Staat versucht die private Geldschöpfung zu steuern, was nicht (mehr) gelingt.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4S81c5GnnRM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
-## 3\. Wer macht das Geld und wer entscheidet\, wie viel?
-
+## 3. Wer macht das Geld und wer entscheidet, wie viel?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nrUKuicTWWw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Literatur

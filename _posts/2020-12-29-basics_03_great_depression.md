@@ -6,7 +6,7 @@ description: Prototype einer Deflationskrise
 show\_tags: true
 comments: true
 categories: [depression, deflation]
-image: images/great\_depression.png
+image: images/great_depression.png
 ---
 > „An entire nation, it seemed, was standing in one long breadline, desparate for even the barest essentials. It was a crisis of monumental proportions.“
 > \*\*Kathi Appelt, Schriftstellerin
