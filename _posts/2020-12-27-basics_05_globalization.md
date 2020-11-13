@@ -6,7 +6,7 @@ description: Vom Zusammenbruch des Bretton Woods Systems 1971 bis zur Finankrise
 show\_tags: true
 comments: true
 categories: [Globalisierung, Goldbindung]
-image: images/hyperinflation.png
+image: images/globalization.png
 ---
 > „Wenn alle Akteure an ihrem eigenen Wohl orientiert seien, führe eine angenommene teilweise oder vollständige Selbstregulierung des Wirtschaftslebens zu einer optimalen Produktionsmenge und -qualität und zu einer gerechten Verteilung.“
 

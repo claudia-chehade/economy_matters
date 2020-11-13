@@ -6,7 +6,7 @@ description: Ursachen und Konsequenzen der Finanzkrise 2008
 show\_tags: true
 comments: true
 categories: [Finanzkrise, Bankenkrise]
-image: images/hyperinflation.png
+image: images/financial_crisis.png
 ---
 > „When the music stops, in terms of liquidity, things will be complicated. But as long as the music is playing, you've got to get up and dance. We're still dancing.“
 
