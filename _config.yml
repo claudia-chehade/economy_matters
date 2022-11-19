@@ -39,9 +39,11 @@ baseurl: "/economy_matters" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
+  # social_links:
+  #   twitter: fastdotai
+  #   github: claudia-chehade
   social_links:
-    twitter: fastdotai
-    github: claudia-chehade
+    - { platform: github,  user_url: "https://github.com/claudia-chehade/economy_matters" }
 
 # Set this to true to get LaTeX math equation support
 use_math: 
