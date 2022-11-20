@@ -11,11 +11,7 @@ jobs:
     if: ( github.event.commits[0].message != 'Initial commit' ) || github.run_number > 1
     runs-on: ubuntu-latest
     steps:
-    
-    - name: Test workflow change
-      run:
-        echo "Testing the workflow change ${{ secrets.SSH_DEPLOY_KEY }}"
-      
+     
     - name: Check if secret exists
       if: github.event_name == 'push'
       run: |
@@ -57,6 +53,6 @@ jobs:
       if: github.event_name == 'push'
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        #deploy_key: ${{ secrets.SSH_DEPLOY_KEY }}
+        #github_token: ${{ secrets.GITHUB_TOKEN }}
+        deploy_key: ${{ secrets.SSH_DEPLOY_KEY }}
         publish_dir: ./_site
