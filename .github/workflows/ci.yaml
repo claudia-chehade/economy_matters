@@ -14,7 +14,7 @@ jobs:
     
     - name: Test workflow change
       run:
-        echo "Testing the workflow change ###############################"
+        echo "Testing the workflow change"
       
     - name: Check if secret exists
       if: github.event_name == 'push'
