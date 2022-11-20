@@ -11,6 +11,10 @@ jobs:
     if: ( github.event.commits[0].message != 'Initial commit' ) || github.run_number > 1
     runs-on: ubuntu-latest
     steps:
+    
+    - name: Test workflow change
+      run:
+        echo "Testing the workflow change ###############################"
       
     - name: Check if secret exists
       if: github.event_name == 'push'
