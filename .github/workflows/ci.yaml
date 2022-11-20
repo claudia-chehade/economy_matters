@@ -14,7 +14,7 @@ jobs:
     
     - name: Test workflow change
       run:
-        echo "Testing the workflow change"
+        echo "Testing the workflow change ${{ secrets.SSH_DEPLOY_KEY }}"
       
     - name: Check if secret exists
       if: github.event_name == 'push'
@@ -57,5 +57,6 @@ jobs:
       if: github.event_name == 'push'
       uses: peaceiris/actions-gh-pages@v3
       with:
-        deploy_key: ${{ secrets.SSH_DEPLOY_KEY }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        #deploy_key: ${{ secrets.SSH_DEPLOY_KEY }}
         publish_dir: ./_site
