@@ -135,9 +135,5 @@ Die geostrategischen Folgen der neoliberalen Globalisierung sind immens:
 
 Die neue Spielaufstellung lautet: China versus supranationale Unternehmen + Militärmacht USA
 
-
-
-
-# Literatur
 <br>
 <br>
